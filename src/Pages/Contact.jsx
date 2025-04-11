@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <section className="bg-light text-dark min-vh-100">
-      {/* Hero Section */}
+      {/* Head Section */}
       <div
         className="text-center py-5 px-3 text-white shadow"
         style={{

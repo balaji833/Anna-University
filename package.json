@@ -1,0 +1,38 @@
+{
+  "homepage": "https://github.com/balaji833/Anna-University.git",
+  "name": "anna-university-full-clone",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "bootstrap": "^5.3.5",
+    "lucide-react": "^0.487.0",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.30.0",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^3.3.2"
+    
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d bulid"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

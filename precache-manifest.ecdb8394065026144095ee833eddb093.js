@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c789e6a8ca09089ca276b499765b346",
+    "revision": "5a677baf57d0d6129ad16cf274bb201d",
     "url": "/balaji833/Anna-University.git/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/balaji833/Anna-University.git/static/css/2.b0aab389.chunk.css"
   },
   {
-    "revision": "b870c26da3aad0f7a36c",
+    "revision": "e4458dd0d0e1b7aa05ae",
     "url": "/balaji833/Anna-University.git/static/css/main.3330e8aa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/balaji833/Anna-University.git/static/js/2.bbe0f90a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b870c26da3aad0f7a36c",
-    "url": "/balaji833/Anna-University.git/static/js/main.dbf20a55.chunk.js"
+    "revision": "e4458dd0d0e1b7aa05ae",
+    "url": "/balaji833/Anna-University.git/static/js/main.41e618b2.chunk.js"
   },
   {
     "revision": "17a91f56156e6acdbf9c",
